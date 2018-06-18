@@ -1,0 +1,19 @@
+h1{
+  font-family: fantasy;
+  font-size: 48px;
+  margin: 0px 500px 0px 500px;
+  display: inline;
+}
+.app-logo{
+  height: 200px;
+  width: 200px;
+  margin: 0px 500px 0px 500px;
+  display: block;
+ 
+}
+.App-intro{
+  text-align: center;
+  font-family: fantasy;
+  font-size: 20px;
+
+}
